@@ -1,0 +1,178 @@
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/appsettings.Development.json
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/appsettings.json
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/maje maricon.staticwebassets.endpoints.json
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/maje maricon
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/maje maricon.deps.json
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/maje maricon.runtimeconfig.json
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/maje maricon.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/maje maricon.pdb
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/Azure.Core.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/Azure.Identity.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/Humanizer.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/Microsoft.Data.SqlClient.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/Microsoft.Identity.Client.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/Microsoft.SqlServer.Server.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/Microsoft.Win32.SystemEvents.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/Mono.TextTemplating.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/System.ClientModel.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/System.CodeDom.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/System.Composition.Convention.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/System.Composition.Hosting.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/System.Composition.Runtime.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/System.Drawing.Common.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/System.Formats.Asn1.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/System.Memory.Data.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/System.Runtime.Caching.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/System.Security.Permissions.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/System.Text.Json.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/System.Windows.Extensions.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/maje maricon.csproj.AssemblyReference.cache
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/maje maricon.GeneratedMSBuildEditorConfig.editorconfig
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/maje maricon.AssemblyInfoInputs.cache
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/maje maricon.AssemblyInfo.cs
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/maje maricon.csproj.CoreCompileInputs.cache
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/maje maricon.MvcApplicationPartsAssemblyInfo.cs
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/maje maricon.MvcApplicationPartsAssemblyInfo.cache
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/maje maricon.sourcelink.json
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/scopedcss/bundle/maje maricon.styles.css
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/staticwebassets.build.json
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/staticwebassets.development.json
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/staticwebassets/msbuild.maje maricon.Microsoft.AspNetCore.StaticWebAssets.props
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/staticwebassets/msbuild.maje maricon.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/staticwebassets/msbuild.build.maje maricon.props
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.maje maricon.props
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.maje maricon.props
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/staticwebassets.pack.json
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/maje mar.C41A486D.Up2Date
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/maje maricon.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/refint/maje maricon.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/maje maricon.pdb
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/maje maricon.genruntimeconfig.cache
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/ref/maje maricon.dll
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/maje maricon.RazorAssemblyInfo.cache
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/maje maricon.RazorAssemblyInfo.cs
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/maje maricon.staticwebassets.runtime.json
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/arxznopm08-e6yyug0vru.gz
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/package-lock.json
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/package.json
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/tsconfig.json
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/d3ewgwqmud-04t9ku4s3b.gz
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/7rmu5txlnu-i9f64m7ms7.gz
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/3xjqpls6vb-devwvbuly2.gz
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/vdjyrrj1hv-n3u0z9ki0f.gz
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/ukk3v2islt-fan25un9my.gz

@@ -1,0 +1,2268 @@
+{
+  "Version": 1,
+  "Hash": "OUpkjMjK0qG0ZBYprW9RBWvAgdECFJ57uGsi5/aBPvs=",
+  "Source": "maje maricon",
+  "BasePath": "_content/maje maricon",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "maje maricon/wwwroot",
+      "Source": "maje maricon",
+      "ContentRoot": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/",
+      "BasePath": "_content/maje maricon",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/3xjqpls6vb-devwvbuly2.gz",
+      "SourceId": "maje maricon",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/maje maricon",
+      "RelativePath": "js/app.d.ts#[.{fingerprint=devwvbuly2}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/js/app.d.ts.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "7u3uzmb05c",
+      "Integrity": "Eca049DajyCUpueMz/JLK2qxdu9lO1aGZsnQb0po6q0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/js/app.d.ts.map"
+    },
+    {
+      "Identity": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/7rmu5txlnu-i9f64m7ms7.gz",
+      "SourceId": "maje maricon",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/maje maricon",
+      "RelativePath": "css/Login#[.{fingerprint=i9f64m7ms7}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/css/Login.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "kyn74545oc",
+      "Integrity": "DK0MIhrWv/RrEPnFZIRWT8EXa+1iL5yLtIyNmwxlqgE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/css/Login.css"
+    },
+    {
+      "Identity": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/arxznopm08-e6yyug0vru.gz",
+      "SourceId": "maje maricon",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/maje maricon",
+      "RelativePath": "assets/heart#[.{fingerprint=e6yyug0vru}]?.ico.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/assets/heart.ico",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "yaguwbw4eo",
+      "Integrity": "Ctq3p6zNVlwmS1VLcwYX1d8p7U5Y8XZvIZTy0Ehegu0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/assets/heart.ico"
+    },
+    {
+      "Identity": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/d3ewgwqmud-04t9ku4s3b.gz",
+      "SourceId": "maje maricon",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/maje maricon",
+      "RelativePath": "css/Home#[.{fingerprint=04t9ku4s3b}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/css/Home.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "z0lg0f0x8g",
+      "Integrity": "c6qZq5s51x9pqWDb+8fbKiSXKNw06rl83/w4TUid7EU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/css/Home.css"
+    },
+    {
+      "Identity": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/ukk3v2islt-fan25un9my.gz",
+      "SourceId": "maje maricon",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/maje maricon",
+      "RelativePath": "js/app.js#[.{fingerprint=fan25un9my}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/js/app.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "8uwv0ug01q",
+      "Integrity": "APDfLNPP9TRSxwU5Hj5dMksKbHAILMz26XiyNx/qT+I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/js/app.js.map"
+    },
+    {
+      "Identity": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/vdjyrrj1hv-n3u0z9ki0f.gz",
+      "SourceId": "maje maricon",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/maje maricon",
+      "RelativePath": "js/app#[.{fingerprint=n3u0z9ki0f}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/js/app.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "f6utbfudgq",
+      "Integrity": "+RqsigPAlzLxs2UrcLHCa2Trz5UDRbMakjqf5ED4Vig=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/js/app.js"
+    },
+    {
+      "Identity": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/assets/heart.ico",
+      "SourceId": "maje maricon",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/",
+      "BasePath": "_content/maje maricon",
+      "RelativePath": "assets/heart#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e6yyug0vru",
+      "Integrity": "ekAfheNpfyvmXtq+Z5w8TGnVsiRljPEvcJNQEbU3Wxw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/heart.ico"
+    },
+    {
+      "Identity": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/css/Home.css",
+      "SourceId": "maje maricon",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/",
+      "BasePath": "_content/maje maricon",
+      "RelativePath": "css/Home#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "04t9ku4s3b",
+      "Integrity": "YPi+pVJjjZz5odIbp+l6b04zb02xE3e7Alq92aUMHy4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/Home.css"
+    },
+    {
+      "Identity": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/css/Login.css",
+      "SourceId": "maje maricon",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/",
+      "BasePath": "_content/maje maricon",
+      "RelativePath": "css/Login#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i9f64m7ms7",
+      "Integrity": "OuGfwJD0+SX0rFSCEC8bCzamlyh4Ro16XOgFJJeJn9s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/Login.css"
+    },
+    {
+      "Identity": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/js/app.d.ts",
+      "SourceId": "maje maricon",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/",
+      "BasePath": "_content/maje maricon",
+      "RelativePath": "js/app.d#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kmq76b3rzl",
+      "Integrity": "jEQZkOqurSlioKdvIpqxou7zaRz/fZqYymVrzT1kO8E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/app.d.ts"
+    },
+    {
+      "Identity": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/js/app.d.ts.map",
+      "SourceId": "maje maricon",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/",
+      "BasePath": "_content/maje maricon",
+      "RelativePath": "js/app.d.ts#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "devwvbuly2",
+      "Integrity": "C+7PcY5T/8GBstFLjrPihTaMNHlbjOH4yEri5Xxb6BY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/app.d.ts.map"
+    },
+    {
+      "Identity": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/js/app.js",
+      "SourceId": "maje maricon",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/",
+      "BasePath": "_content/maje maricon",
+      "RelativePath": "js/app#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n3u0z9ki0f",
+      "Integrity": "neDkyAKgSX+mnP44A+n3Rwur8SD9bBXlw152MuKbOiw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/app.js"
+    },
+    {
+      "Identity": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/js/app.js.map",
+      "SourceId": "maje maricon",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/",
+      "BasePath": "_content/maje maricon",
+      "RelativePath": "js/app.js#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fan25un9my",
+      "Integrity": "mRC2LYDyWJytOhS5Yh17tsEZA2Lwg3ILqM7MbTB0ZsQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/app.js.map"
+    },
+    {
+      "Identity": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/ts/app.ts",
+      "SourceId": "maje maricon",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/",
+      "BasePath": "_content/maje maricon",
+      "RelativePath": "ts/app#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9i9k7478g2",
+      "Integrity": "3ytwjdKpheePC3bfs2EOL6snUK+I12ycBpHGRPfhHVU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/ts/app.ts"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "assets/heart.e6yyug0vru.ico",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/arxznopm08-e6yyug0vru.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000097761267"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10228"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ctq3p6zNVlwmS1VLcwYX1d8p7U5Y8XZvIZTy0Ehegu0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Sep 2025 16:06:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ekAfheNpfyvmXtq+Z5w8TGnVsiRljPEvcJNQEbU3Wxw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e6yyug0vru"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/heart.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ekAfheNpfyvmXtq+Z5w8TGnVsiRljPEvcJNQEbU3Wxw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/heart.e6yyug0vru.ico",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/assets/heart.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11064"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ekAfheNpfyvmXtq+Z5w8TGnVsiRljPEvcJNQEbU3Wxw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Sep 2025 16:06:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e6yyug0vru"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/heart.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ekAfheNpfyvmXtq+Z5w8TGnVsiRljPEvcJNQEbU3Wxw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/heart.e6yyug0vru.ico.gz",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/arxznopm08-e6yyug0vru.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10228"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ctq3p6zNVlwmS1VLcwYX1d8p7U5Y8XZvIZTy0Ehegu0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Sep 2025 16:06:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e6yyug0vru"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/heart.ico.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ctq3p6zNVlwmS1VLcwYX1d8p7U5Y8XZvIZTy0Ehegu0="
+        }
+      ]
+    },
+    {
+      "Route": "assets/heart.ico",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/arxznopm08-e6yyug0vru.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000097761267"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10228"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ctq3p6zNVlwmS1VLcwYX1d8p7U5Y8XZvIZTy0Ehegu0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Sep 2025 16:06:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ekAfheNpfyvmXtq+Z5w8TGnVsiRljPEvcJNQEbU3Wxw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ekAfheNpfyvmXtq+Z5w8TGnVsiRljPEvcJNQEbU3Wxw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/heart.ico",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/assets/heart.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11064"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ekAfheNpfyvmXtq+Z5w8TGnVsiRljPEvcJNQEbU3Wxw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Sep 2025 16:06:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ekAfheNpfyvmXtq+Z5w8TGnVsiRljPEvcJNQEbU3Wxw="
+        }
+      ]
+    },
+    {
+      "Route": "assets/heart.ico.gz",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/arxznopm08-e6yyug0vru.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10228"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ctq3p6zNVlwmS1VLcwYX1d8p7U5Y8XZvIZTy0Ehegu0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Sep 2025 16:06:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ctq3p6zNVlwmS1VLcwYX1d8p7U5Y8XZvIZTy0Ehegu0="
+        }
+      ]
+    },
+    {
+      "Route": "css/Home.04t9ku4s3b.css",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/d3ewgwqmud-04t9ku4s3b.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001552795031"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "643"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c6qZq5s51x9pqWDb+8fbKiSXKNw06rl83/w4TUid7EU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Sep 2025 18:11:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"YPi+pVJjjZz5odIbp+l6b04zb02xE3e7Alq92aUMHy4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "04t9ku4s3b"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Home.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YPi+pVJjjZz5odIbp+l6b04zb02xE3e7Alq92aUMHy4="
+        }
+      ]
+    },
+    {
+      "Route": "css/Home.04t9ku4s3b.css",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/css/Home.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1329"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YPi+pVJjjZz5odIbp+l6b04zb02xE3e7Alq92aUMHy4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Sep 2025 18:11:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "04t9ku4s3b"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Home.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YPi+pVJjjZz5odIbp+l6b04zb02xE3e7Alq92aUMHy4="
+        }
+      ]
+    },
+    {
+      "Route": "css/Home.04t9ku4s3b.css.gz",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/d3ewgwqmud-04t9ku4s3b.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "643"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c6qZq5s51x9pqWDb+8fbKiSXKNw06rl83/w4TUid7EU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Sep 2025 18:11:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "04t9ku4s3b"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Home.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-c6qZq5s51x9pqWDb+8fbKiSXKNw06rl83/w4TUid7EU="
+        }
+      ]
+    },
+    {
+      "Route": "css/Home.css",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/d3ewgwqmud-04t9ku4s3b.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001552795031"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "643"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c6qZq5s51x9pqWDb+8fbKiSXKNw06rl83/w4TUid7EU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Sep 2025 18:11:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"YPi+pVJjjZz5odIbp+l6b04zb02xE3e7Alq92aUMHy4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YPi+pVJjjZz5odIbp+l6b04zb02xE3e7Alq92aUMHy4="
+        }
+      ]
+    },
+    {
+      "Route": "css/Home.css",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/css/Home.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1329"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YPi+pVJjjZz5odIbp+l6b04zb02xE3e7Alq92aUMHy4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Sep 2025 18:11:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YPi+pVJjjZz5odIbp+l6b04zb02xE3e7Alq92aUMHy4="
+        }
+      ]
+    },
+    {
+      "Route": "css/Home.css.gz",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/d3ewgwqmud-04t9ku4s3b.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "643"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c6qZq5s51x9pqWDb+8fbKiSXKNw06rl83/w4TUid7EU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Sep 2025 18:11:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-c6qZq5s51x9pqWDb+8fbKiSXKNw06rl83/w4TUid7EU="
+        }
+      ]
+    },
+    {
+      "Route": "css/Login.css",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/7rmu5txlnu-i9f64m7ms7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001358695652"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "735"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DK0MIhrWv/RrEPnFZIRWT8EXa+1iL5yLtIyNmwxlqgE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Sep 2025 18:39:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"OuGfwJD0+SX0rFSCEC8bCzamlyh4Ro16XOgFJJeJn9s=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OuGfwJD0+SX0rFSCEC8bCzamlyh4Ro16XOgFJJeJn9s="
+        }
+      ]
+    },
+    {
+      "Route": "css/Login.css",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/css/Login.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1678"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OuGfwJD0+SX0rFSCEC8bCzamlyh4Ro16XOgFJJeJn9s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Sep 2025 18:39:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OuGfwJD0+SX0rFSCEC8bCzamlyh4Ro16XOgFJJeJn9s="
+        }
+      ]
+    },
+    {
+      "Route": "css/Login.css.gz",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/7rmu5txlnu-i9f64m7ms7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "735"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DK0MIhrWv/RrEPnFZIRWT8EXa+1iL5yLtIyNmwxlqgE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Sep 2025 18:39:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DK0MIhrWv/RrEPnFZIRWT8EXa+1iL5yLtIyNmwxlqgE="
+        }
+      ]
+    },
+    {
+      "Route": "css/Login.i9f64m7ms7.css",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/7rmu5txlnu-i9f64m7ms7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001358695652"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "735"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DK0MIhrWv/RrEPnFZIRWT8EXa+1iL5yLtIyNmwxlqgE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Sep 2025 18:39:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"OuGfwJD0+SX0rFSCEC8bCzamlyh4Ro16XOgFJJeJn9s=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i9f64m7ms7"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Login.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OuGfwJD0+SX0rFSCEC8bCzamlyh4Ro16XOgFJJeJn9s="
+        }
+      ]
+    },
+    {
+      "Route": "css/Login.i9f64m7ms7.css",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/css/Login.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1678"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OuGfwJD0+SX0rFSCEC8bCzamlyh4Ro16XOgFJJeJn9s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Sep 2025 18:39:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i9f64m7ms7"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Login.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OuGfwJD0+SX0rFSCEC8bCzamlyh4Ro16XOgFJJeJn9s="
+        }
+      ]
+    },
+    {
+      "Route": "css/Login.i9f64m7ms7.css.gz",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/7rmu5txlnu-i9f64m7ms7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "735"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DK0MIhrWv/RrEPnFZIRWT8EXa+1iL5yLtIyNmwxlqgE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Sep 2025 18:39:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i9f64m7ms7"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Login.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DK0MIhrWv/RrEPnFZIRWT8EXa+1iL5yLtIyNmwxlqgE="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.d.kmq76b3rzl.ts",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/js/app.d.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jEQZkOqurSlioKdvIpqxou7zaRz/fZqYymVrzT1kO8E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Sep 2025 18:48:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kmq76b3rzl"
+        },
+        {
+          "Name": "label",
+          "Value": "js/app.d.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jEQZkOqurSlioKdvIpqxou7zaRz/fZqYymVrzT1kO8E="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.d.ts",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/js/app.d.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jEQZkOqurSlioKdvIpqxou7zaRz/fZqYymVrzT1kO8E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Sep 2025 18:48:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jEQZkOqurSlioKdvIpqxou7zaRz/fZqYymVrzT1kO8E="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.d.ts.devwvbuly2.map",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/3xjqpls6vb-devwvbuly2.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.009803921569"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "101"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Eca049DajyCUpueMz/JLK2qxdu9lO1aGZsnQb0po6q0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Sep 2025 18:48:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"C+7PcY5T/8GBstFLjrPihTaMNHlbjOH4yEri5Xxb6BY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "devwvbuly2"
+        },
+        {
+          "Name": "label",
+          "Value": "js/app.d.ts.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-C+7PcY5T/8GBstFLjrPihTaMNHlbjOH4yEri5Xxb6BY="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.d.ts.devwvbuly2.map",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/js/app.d.ts.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "99"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C+7PcY5T/8GBstFLjrPihTaMNHlbjOH4yEri5Xxb6BY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Sep 2025 18:48:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "devwvbuly2"
+        },
+        {
+          "Name": "label",
+          "Value": "js/app.d.ts.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-C+7PcY5T/8GBstFLjrPihTaMNHlbjOH4yEri5Xxb6BY="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.d.ts.devwvbuly2.map.gz",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/3xjqpls6vb-devwvbuly2.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "101"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Eca049DajyCUpueMz/JLK2qxdu9lO1aGZsnQb0po6q0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Sep 2025 18:48:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "devwvbuly2"
+        },
+        {
+          "Name": "label",
+          "Value": "js/app.d.ts.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Eca049DajyCUpueMz/JLK2qxdu9lO1aGZsnQb0po6q0="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.d.ts.map",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/3xjqpls6vb-devwvbuly2.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.009803921569"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "101"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Eca049DajyCUpueMz/JLK2qxdu9lO1aGZsnQb0po6q0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Sep 2025 18:48:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"C+7PcY5T/8GBstFLjrPihTaMNHlbjOH4yEri5Xxb6BY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-C+7PcY5T/8GBstFLjrPihTaMNHlbjOH4yEri5Xxb6BY="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.d.ts.map",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/js/app.d.ts.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "99"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C+7PcY5T/8GBstFLjrPihTaMNHlbjOH4yEri5Xxb6BY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Sep 2025 18:48:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-C+7PcY5T/8GBstFLjrPihTaMNHlbjOH4yEri5Xxb6BY="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.d.ts.map.gz",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/3xjqpls6vb-devwvbuly2.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "101"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Eca049DajyCUpueMz/JLK2qxdu9lO1aGZsnQb0po6q0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Sep 2025 18:48:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Eca049DajyCUpueMz/JLK2qxdu9lO1aGZsnQb0po6q0="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.js",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/vdjyrrj1hv-n3u0z9ki0f.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000710227273"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1407"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+RqsigPAlzLxs2UrcLHCa2Trz5UDRbMakjqf5ED4Vig=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Sep 2025 18:48:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"neDkyAKgSX+mnP44A+n3Rwur8SD9bBXlw152MuKbOiw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-neDkyAKgSX+mnP44A+n3Rwur8SD9bBXlw152MuKbOiw="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.js",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/js/app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3242"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"neDkyAKgSX+mnP44A+n3Rwur8SD9bBXlw152MuKbOiw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Sep 2025 18:48:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-neDkyAKgSX+mnP44A+n3Rwur8SD9bBXlw152MuKbOiw="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.js.fan25un9my.map",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/ukk3v2islt-fan25un9my.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001285347044"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "777"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"APDfLNPP9TRSxwU5Hj5dMksKbHAILMz26XiyNx/qT+I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Sep 2025 18:48:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"mRC2LYDyWJytOhS5Yh17tsEZA2Lwg3ILqM7MbTB0ZsQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fan25un9my"
+        },
+        {
+          "Name": "label",
+          "Value": "js/app.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mRC2LYDyWJytOhS5Yh17tsEZA2Lwg3ILqM7MbTB0ZsQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.js.fan25un9my.map",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/js/app.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2497"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mRC2LYDyWJytOhS5Yh17tsEZA2Lwg3ILqM7MbTB0ZsQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Sep 2025 18:48:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fan25un9my"
+        },
+        {
+          "Name": "label",
+          "Value": "js/app.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mRC2LYDyWJytOhS5Yh17tsEZA2Lwg3ILqM7MbTB0ZsQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.js.fan25un9my.map.gz",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/ukk3v2islt-fan25un9my.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "777"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"APDfLNPP9TRSxwU5Hj5dMksKbHAILMz26XiyNx/qT+I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Sep 2025 18:48:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fan25un9my"
+        },
+        {
+          "Name": "label",
+          "Value": "js/app.js.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-APDfLNPP9TRSxwU5Hj5dMksKbHAILMz26XiyNx/qT+I="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.js.gz",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/vdjyrrj1hv-n3u0z9ki0f.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1407"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+RqsigPAlzLxs2UrcLHCa2Trz5UDRbMakjqf5ED4Vig=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Sep 2025 18:48:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+RqsigPAlzLxs2UrcLHCa2Trz5UDRbMakjqf5ED4Vig="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.js.map",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/ukk3v2islt-fan25un9my.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001285347044"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "777"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"APDfLNPP9TRSxwU5Hj5dMksKbHAILMz26XiyNx/qT+I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Sep 2025 18:48:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"mRC2LYDyWJytOhS5Yh17tsEZA2Lwg3ILqM7MbTB0ZsQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mRC2LYDyWJytOhS5Yh17tsEZA2Lwg3ILqM7MbTB0ZsQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.js.map",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/js/app.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2497"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mRC2LYDyWJytOhS5Yh17tsEZA2Lwg3ILqM7MbTB0ZsQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Sep 2025 18:48:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mRC2LYDyWJytOhS5Yh17tsEZA2Lwg3ILqM7MbTB0ZsQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.js.map.gz",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/ukk3v2islt-fan25un9my.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "777"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"APDfLNPP9TRSxwU5Hj5dMksKbHAILMz26XiyNx/qT+I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Sep 2025 18:48:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-APDfLNPP9TRSxwU5Hj5dMksKbHAILMz26XiyNx/qT+I="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.n3u0z9ki0f.js",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/vdjyrrj1hv-n3u0z9ki0f.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000710227273"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1407"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+RqsigPAlzLxs2UrcLHCa2Trz5UDRbMakjqf5ED4Vig=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Sep 2025 18:48:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"neDkyAKgSX+mnP44A+n3Rwur8SD9bBXlw152MuKbOiw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n3u0z9ki0f"
+        },
+        {
+          "Name": "label",
+          "Value": "js/app.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-neDkyAKgSX+mnP44A+n3Rwur8SD9bBXlw152MuKbOiw="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.n3u0z9ki0f.js",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/js/app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3242"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"neDkyAKgSX+mnP44A+n3Rwur8SD9bBXlw152MuKbOiw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Sep 2025 18:48:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n3u0z9ki0f"
+        },
+        {
+          "Name": "label",
+          "Value": "js/app.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-neDkyAKgSX+mnP44A+n3Rwur8SD9bBXlw152MuKbOiw="
+        }
+      ]
+    },
+    {
+      "Route": "js/app.n3u0z9ki0f.js.gz",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/vdjyrrj1hv-n3u0z9ki0f.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1407"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+RqsigPAlzLxs2UrcLHCa2Trz5UDRbMakjqf5ED4Vig=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Sep 2025 18:48:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n3u0z9ki0f"
+        },
+        {
+          "Name": "label",
+          "Value": "js/app.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+RqsigPAlzLxs2UrcLHCa2Trz5UDRbMakjqf5ED4Vig="
+        }
+      ]
+    },
+    {
+      "Route": "ts/app.9i9k7478g2.ts",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/ts/app.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2913"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3ytwjdKpheePC3bfs2EOL6snUK+I12ycBpHGRPfhHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Sep 2025 18:48:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9i9k7478g2"
+        },
+        {
+          "Name": "label",
+          "Value": "ts/app.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3ytwjdKpheePC3bfs2EOL6snUK+I12ycBpHGRPfhHVU="
+        }
+      ]
+    },
+    {
+      "Route": "ts/app.ts",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/ts/app.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2913"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3ytwjdKpheePC3bfs2EOL6snUK+I12ycBpHGRPfhHVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 14 Sep 2025 18:48:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3ytwjdKpheePC3bfs2EOL6snUK+I12ycBpHGRPfhHVU="
+        }
+      ]
+    }
+  ]
+}

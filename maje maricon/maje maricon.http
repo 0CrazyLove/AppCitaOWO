@@ -1,0 +1,6 @@
+@maje_maricon_HostAddress = http://localhost:5163
+
+GET {{maje_maricon_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
