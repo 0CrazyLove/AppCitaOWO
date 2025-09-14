@@ -1,6 +1,7 @@
 @* Login bonito, sencillo y moderno: HTML + CSS vanilla en un solo archivo *@
 
 <head>
+	<script src="https://accounts.google.com/gsi/client" async defer></script>
 	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
 	<link rel="icon" href="/assets/heart.ico" type="image/x-icon">
 	<link rel="stylesheet" href="/css/Login.css">
@@ -18,5 +19,10 @@
 			<input type="password" id="password" name="password" required autocomplete="current-password" />
 		</div>
 		<button type="submit" class="login-btn">Entrar</button>
+	
+		<!-- Botón de sign-in -->
+		<div id="g_id_onload" data-client_id="232066151390-poebl0golh1lr2tfcn9i0k1pv401dc8k.apps.googleusercontent.com" data-callback="handleCredentialResponse">
+		</div>
+		<div class="g_id_signin" data-type="standard"></div>
 	</form>
 </div>
