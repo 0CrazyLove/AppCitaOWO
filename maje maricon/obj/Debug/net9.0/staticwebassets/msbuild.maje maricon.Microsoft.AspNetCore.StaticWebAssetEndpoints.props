@@ -27,14 +27,14 @@
     <StaticWebAssetEndpoint Include="_content/maje maricon/css/Login.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\Login.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-OuGfwJD0\u002BSX0rFSCEC8bCzamlyh4Ro16XOgFJJeJn9s="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1678"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022OuGfwJD0\u002BSX0rFSCEC8bCzamlyh4Ro16XOgFJJeJn9s=\u0022"},{"Name":"Last-Modified","Value":"Sun, 14 Sep 2025 18:39:33 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-jK1wnjnk6zluX3tCWiYQ/7kxJGbicHP7DYJQd7IjXgo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1457"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022jK1wnjnk6zluX3tCWiYQ/7kxJGbicHP7DYJQd7IjXgo=\u0022"},{"Name":"Last-Modified","Value":"Sun, 14 Sep 2025 19:42:23 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/maje maricon/css/Login.i9f64m7ms7.css">
+    <StaticWebAssetEndpoint Include="_content/maje maricon/css/Login.gz94u9wgve.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\Login.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"i9f64m7ms7"},{"Name":"integrity","Value":"sha256-OuGfwJD0\u002BSX0rFSCEC8bCzamlyh4Ro16XOgFJJeJn9s="},{"Name":"label","Value":"_content/maje maricon/css/Login.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1678"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022OuGfwJD0\u002BSX0rFSCEC8bCzamlyh4Ro16XOgFJJeJn9s=\u0022"},{"Name":"Last-Modified","Value":"Sun, 14 Sep 2025 18:39:33 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"gz94u9wgve"},{"Name":"integrity","Value":"sha256-jK1wnjnk6zluX3tCWiYQ/7kxJGbicHP7DYJQd7IjXgo="},{"Name":"label","Value":"_content/maje maricon/css/Login.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1457"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022jK1wnjnk6zluX3tCWiYQ/7kxJGbicHP7DYJQd7IjXgo=\u0022"},{"Name":"Last-Modified","Value":"Sun, 14 Sep 2025 19:42:23 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/maje maricon/js/app.d.kmq76b3rzl.ts">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\app.d.ts'))</AssetFile>
@@ -64,7 +64,7 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\app.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-neDkyAKgSX\u002BmnP44A\u002Bn3Rwur8SD9bBXlw152MuKbOiw="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3242"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022neDkyAKgSX\u002BmnP44A\u002Bn3Rwur8SD9bBXlw152MuKbOiw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 14 Sep 2025 18:48:35 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3242"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022neDkyAKgSX\u002BmnP44A\u002Bn3Rwur8SD9bBXlw152MuKbOiw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 14 Sep 2025 19:36:29 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/maje maricon/js/app.js.fan25un9my.map">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\app.js.map'))</AssetFile>
@@ -82,7 +82,7 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\app.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"n3u0z9ki0f"},{"Name":"integrity","Value":"sha256-neDkyAKgSX\u002BmnP44A\u002Bn3Rwur8SD9bBXlw152MuKbOiw="},{"Name":"label","Value":"_content/maje maricon/js/app.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3242"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022neDkyAKgSX\u002BmnP44A\u002Bn3Rwur8SD9bBXlw152MuKbOiw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 14 Sep 2025 18:48:35 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3242"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022neDkyAKgSX\u002BmnP44A\u002Bn3Rwur8SD9bBXlw152MuKbOiw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 14 Sep 2025 19:36:29 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/maje maricon/ts/app.9i9k7478g2.ts">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ts\app.ts'))</AssetFile>
@@ -95,6 +95,18 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-3ytwjdKpheePC3bfs2EOL6snUK\u002BI12ycBpHGRPfhHVU="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"2913"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u00223ytwjdKpheePC3bfs2EOL6snUK\u002BI12ycBpHGRPfhHVU=\u0022"},{"Name":"Last-Modified","Value":"Sun, 14 Sep 2025 18:48:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/maje maricon/ts/google-auth.dej4taibv6.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ts\google-auth.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dej4taibv6"},{"Name":"integrity","Value":"sha256-yz840TOQZ1faYcr1R\u002BOZeIWKETEfGvcvcs/zX/RzjNY="},{"Name":"label","Value":"_content/maje maricon/ts/google-auth.ts"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3260"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u0022yz840TOQZ1faYcr1R\u002BOZeIWKETEfGvcvcs/zX/RzjNY=\u0022"},{"Name":"Last-Modified","Value":"Wed, 17 Sep 2025 01:59:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/maje maricon/ts/google-auth.ts">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ts\google-auth.ts'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-yz840TOQZ1faYcr1R\u002BOZeIWKETEfGvcvcs/zX/RzjNY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3260"},{"Name":"Content-Type","Value":"video/vnd.dlna.mpeg-tts"},{"Name":"ETag","Value":"\u0022yz840TOQZ1faYcr1R\u002BOZeIWKETEfGvcvcs/zX/RzjNY=\u0022"},{"Name":"Last-Modified","Value":"Wed, 17 Sep 2025 01:59:45 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>

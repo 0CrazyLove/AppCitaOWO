@@ -172,7 +172,7 @@
 /home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/package.json
 /home/crazy/Documents/dev/AppCitaOWO/maje maricon/bin/Debug/net9.0/tsconfig.json
 /home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/d3ewgwqmud-04t9ku4s3b.gz
-/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/7rmu5txlnu-i9f64m7ms7.gz
 /home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/3xjqpls6vb-devwvbuly2.gz
 /home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/vdjyrrj1hv-n3u0z9ki0f.gz
 /home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/ukk3v2islt-fan25un9my.gz
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/7rmu5txlnu-gz94u9wgve.gz

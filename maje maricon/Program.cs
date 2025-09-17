@@ -1,6 +1,8 @@
 using Microsoft.EntityFrameworkCore;
+using GoogLoginTest.Services;
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews(); // Habilita controladores MVC con soporte para vistas Razor.
+builder.Services.AddScoped<IAuthService, AuthService>(); 
 builder.Services.AddDbContext<LoginDbContext>(Options =>
 Options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"))
 );

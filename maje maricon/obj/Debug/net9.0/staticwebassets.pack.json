@@ -33,6 +33,10 @@
       "PackagePath": "staticwebassets/ts/app.ts"
     },
     {
+      "Id": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/ts/google-auth.ts",
+      "PackagePath": "staticwebassets/ts/google-auth.ts"
+    },
+    {
       "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.maje maricon.props",
       "PackagePath": "build\\maje maricon.props"
     },
