@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("maje maricon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55d21d6995aefe418f9289ac609a712dfc5f8418")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec37f3a1598f5b6c820102ea725bd6c2eaf7b1f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("maje maricon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("maje maricon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

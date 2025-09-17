@@ -13,6 +13,9 @@ public class GoogleUserData
     [Required]
     public string Sub { get; set; } = string.Empty;
 
+    // Relación inversa (opcional)(estudiar)
+    public UserLogin? UserLogin { get; set; }
+
     /// <summary>
     /// Emisor del token (iss).
     /// </summary>

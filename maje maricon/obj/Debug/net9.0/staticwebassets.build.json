@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "SNWhVkfQkks+Yev99e3ga5LePll+bsT+Pu2WmLQQOss=",
+  "Hash": "g6BXhVGjr+eivUoInvObFnUXVSgxYb800tvRK872MJQ=",
   "Source": "maje maricon",
   "BasePath": "_content/maje maricon",
   "Mode": "Default",
@@ -99,6 +99,69 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/css/Home.css"
+    },
+    {
+      "Identity": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/g1522l7ceo-paflkno7xf.gz",
+      "SourceId": "maje maricon",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/maje maricon",
+      "RelativePath": "js/google-auth.js#[.{fingerprint=paflkno7xf}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/js/google-auth.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "3q48x4g7b6",
+      "Integrity": "FSXKRp2rtcO/QAlhZJaJBcbcmOgTEa6gDllptLmzokY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/js/google-auth.js.map"
+    },
+    {
+      "Identity": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/k1nw8sr7c3-s68iscotby.gz",
+      "SourceId": "maje maricon",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/maje maricon",
+      "RelativePath": "js/google-auth.d.ts#[.{fingerprint=s68iscotby}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/js/google-auth.d.ts.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "kylxviewx5",
+      "Integrity": "lCv+NHG7UpW9xjymFddtjPlmTvzYRE/rdBMie6TblkQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/js/google-auth.d.ts.map"
+    },
+    {
+      "Identity": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/t9sc03z9e1-txkuxfs7md.gz",
+      "SourceId": "maje maricon",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/maje maricon",
+      "RelativePath": "js/google-auth#[.{fingerprint=txkuxfs7md}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/js/google-auth.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "07t1mb9eyt",
+      "Integrity": "9MPAbyTF02+x4lWQbdwe78m33mi/P/lbWWmoFrv+lus=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/js/google-auth.js"
     },
     {
       "Identity": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/ukk3v2islt-fan25un9my.gz",
@@ -288,6 +351,90 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/js/app.js.map"
+    },
+    {
+      "Identity": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/js/google-auth.d.ts",
+      "SourceId": "maje maricon",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/",
+      "BasePath": "_content/maje maricon",
+      "RelativePath": "js/google-auth.d#[.{fingerprint}]?.ts",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8efg7cwjei",
+      "Integrity": "EHf6O28QM0G8SnijoRmU4d17/teCPrIRpMV+UKlhVaw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/google-auth.d.ts"
+    },
+    {
+      "Identity": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/js/google-auth.d.ts.map",
+      "SourceId": "maje maricon",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/",
+      "BasePath": "_content/maje maricon",
+      "RelativePath": "js/google-auth.d.ts#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s68iscotby",
+      "Integrity": "9AVU3j/xf05KZ9kRv7PJNE7RIVkaRc0KukppAYDyAD4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/google-auth.d.ts.map"
+    },
+    {
+      "Identity": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/js/google-auth.js",
+      "SourceId": "maje maricon",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/",
+      "BasePath": "_content/maje maricon",
+      "RelativePath": "js/google-auth#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "txkuxfs7md",
+      "Integrity": "gaL26GEKrq92L2VIathWYFmNB/SRTgvGfLq2k+KxNMI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/google-auth.js"
+    },
+    {
+      "Identity": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/js/google-auth.js.map",
+      "SourceId": "maje maricon",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/",
+      "BasePath": "_content/maje maricon",
+      "RelativePath": "js/google-auth.js#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "paflkno7xf",
+      "Integrity": "sdBu7yc3zKNLi1M+EP1f+WmbojgRnOmZcFidK91NUbg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/google-auth.js.map"
     },
     {
       "Identity": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/ts/app.ts",
@@ -1250,7 +1397,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 14 Sep 2025 18:48:35 GMT"
+          "Value": "Wed, 17 Sep 2025 02:40:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1295,7 +1442,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 14 Sep 2025 18:48:35 GMT"
+          "Value": "Wed, 17 Sep 2025 02:40:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1334,7 +1481,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 14 Sep 2025 18:48:35 GMT"
+          "Value": "Wed, 17 Sep 2025 02:40:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1395,7 +1542,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 14 Sep 2025 18:48:35 GMT"
+          "Value": "Wed, 17 Sep 2025 02:40:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1440,7 +1587,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 14 Sep 2025 18:48:35 GMT"
+          "Value": "Wed, 17 Sep 2025 02:40:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1495,7 +1642,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 14 Sep 2025 18:48:35 GMT"
+          "Value": "Wed, 17 Sep 2025 02:40:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1548,7 +1695,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 14 Sep 2025 18:48:35 GMT"
+          "Value": "Wed, 17 Sep 2025 02:40:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1585,7 +1732,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 14 Sep 2025 18:48:35 GMT"
+          "Value": "Wed, 17 Sep 2025 02:40:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1632,7 +1779,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 14 Sep 2025 19:36:29 GMT"
+          "Value": "Wed, 17 Sep 2025 02:40:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1685,7 +1832,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 14 Sep 2025 19:36:29 GMT"
+          "Value": "Wed, 17 Sep 2025 02:40:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1724,7 +1871,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 14 Sep 2025 18:48:35 GMT"
+          "Value": "Wed, 17 Sep 2025 02:40:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1785,7 +1932,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 14 Sep 2025 18:48:35 GMT"
+          "Value": "Wed, 17 Sep 2025 02:40:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1830,7 +1977,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 14 Sep 2025 18:48:35 GMT"
+          "Value": "Wed, 17 Sep 2025 02:40:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1883,7 +2030,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 14 Sep 2025 19:36:29 GMT"
+          "Value": "Wed, 17 Sep 2025 02:40:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1930,7 +2077,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 14 Sep 2025 18:48:35 GMT"
+          "Value": "Wed, 17 Sep 2025 02:40:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1983,7 +2130,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 14 Sep 2025 18:48:35 GMT"
+          "Value": "Wed, 17 Sep 2025 02:40:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2020,7 +2167,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 14 Sep 2025 18:48:35 GMT"
+          "Value": "Wed, 17 Sep 2025 02:40:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2067,7 +2214,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 14 Sep 2025 19:36:29 GMT"
+          "Value": "Wed, 17 Sep 2025 02:40:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2128,7 +2275,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 14 Sep 2025 19:36:29 GMT"
+          "Value": "Wed, 17 Sep 2025 02:40:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2173,7 +2320,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 14 Sep 2025 19:36:29 GMT"
+          "Value": "Wed, 17 Sep 2025 02:40:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2200,6 +2347,982 @@
         {
           "Name": "integrity",
           "Value": "sha256-+RqsigPAlzLxs2UrcLHCa2Trz5UDRbMakjqf5ED4Vig="
+        }
+      ]
+    },
+    {
+      "Route": "js/google-auth.d.8efg7cwjei.ts",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/js/google-auth.d.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "415"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EHf6O28QM0G8SnijoRmU4d17/teCPrIRpMV+UKlhVaw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 17 Sep 2025 02:40:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8efg7cwjei"
+        },
+        {
+          "Name": "label",
+          "Value": "js/google-auth.d.ts"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EHf6O28QM0G8SnijoRmU4d17/teCPrIRpMV+UKlhVaw="
+        }
+      ]
+    },
+    {
+      "Route": "js/google-auth.d.ts",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/js/google-auth.d.ts",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "415"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "video/vnd.dlna.mpeg-tts"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EHf6O28QM0G8SnijoRmU4d17/teCPrIRpMV+UKlhVaw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 17 Sep 2025 02:40:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EHf6O28QM0G8SnijoRmU4d17/teCPrIRpMV+UKlhVaw="
+        }
+      ]
+    },
+    {
+      "Route": "js/google-auth.d.ts.map",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/k1nw8sr7c3-s68iscotby.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004016064257"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "248"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lCv+NHG7UpW9xjymFddtjPlmTvzYRE/rdBMie6TblkQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 17 Sep 2025 02:40:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9AVU3j/xf05KZ9kRv7PJNE7RIVkaRc0KukppAYDyAD4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9AVU3j/xf05KZ9kRv7PJNE7RIVkaRc0KukppAYDyAD4="
+        }
+      ]
+    },
+    {
+      "Route": "js/google-auth.d.ts.map",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/js/google-auth.d.ts.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "416"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9AVU3j/xf05KZ9kRv7PJNE7RIVkaRc0KukppAYDyAD4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 17 Sep 2025 02:40:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9AVU3j/xf05KZ9kRv7PJNE7RIVkaRc0KukppAYDyAD4="
+        }
+      ]
+    },
+    {
+      "Route": "js/google-auth.d.ts.map.gz",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/k1nw8sr7c3-s68iscotby.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "248"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lCv+NHG7UpW9xjymFddtjPlmTvzYRE/rdBMie6TblkQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 17 Sep 2025 02:40:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lCv+NHG7UpW9xjymFddtjPlmTvzYRE/rdBMie6TblkQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/google-auth.d.ts.s68iscotby.map",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/k1nw8sr7c3-s68iscotby.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004016064257"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "248"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lCv+NHG7UpW9xjymFddtjPlmTvzYRE/rdBMie6TblkQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 17 Sep 2025 02:40:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9AVU3j/xf05KZ9kRv7PJNE7RIVkaRc0KukppAYDyAD4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s68iscotby"
+        },
+        {
+          "Name": "label",
+          "Value": "js/google-auth.d.ts.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9AVU3j/xf05KZ9kRv7PJNE7RIVkaRc0KukppAYDyAD4="
+        }
+      ]
+    },
+    {
+      "Route": "js/google-auth.d.ts.s68iscotby.map",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/js/google-auth.d.ts.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "416"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9AVU3j/xf05KZ9kRv7PJNE7RIVkaRc0KukppAYDyAD4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 17 Sep 2025 02:40:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s68iscotby"
+        },
+        {
+          "Name": "label",
+          "Value": "js/google-auth.d.ts.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9AVU3j/xf05KZ9kRv7PJNE7RIVkaRc0KukppAYDyAD4="
+        }
+      ]
+    },
+    {
+      "Route": "js/google-auth.d.ts.s68iscotby.map.gz",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/k1nw8sr7c3-s68iscotby.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "248"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lCv+NHG7UpW9xjymFddtjPlmTvzYRE/rdBMie6TblkQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 17 Sep 2025 02:40:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s68iscotby"
+        },
+        {
+          "Name": "label",
+          "Value": "js/google-auth.d.ts.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lCv+NHG7UpW9xjymFddtjPlmTvzYRE/rdBMie6TblkQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/google-auth.js",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/t9sc03z9e1-txkuxfs7md.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000737463127"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1355"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9MPAbyTF02+x4lWQbdwe78m33mi/P/lbWWmoFrv+lus=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 17 Sep 2025 02:40:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gaL26GEKrq92L2VIathWYFmNB/SRTgvGfLq2k+KxNMI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gaL26GEKrq92L2VIathWYFmNB/SRTgvGfLq2k+KxNMI="
+        }
+      ]
+    },
+    {
+      "Route": "js/google-auth.js",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/js/google-auth.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3265"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gaL26GEKrq92L2VIathWYFmNB/SRTgvGfLq2k+KxNMI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 17 Sep 2025 02:40:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gaL26GEKrq92L2VIathWYFmNB/SRTgvGfLq2k+KxNMI="
+        }
+      ]
+    },
+    {
+      "Route": "js/google-auth.js.gz",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/t9sc03z9e1-txkuxfs7md.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1355"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9MPAbyTF02+x4lWQbdwe78m33mi/P/lbWWmoFrv+lus=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 17 Sep 2025 02:40:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9MPAbyTF02+x4lWQbdwe78m33mi/P/lbWWmoFrv+lus="
+        }
+      ]
+    },
+    {
+      "Route": "js/google-auth.js.map",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/g1522l7ceo-paflkno7xf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001562500000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "639"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FSXKRp2rtcO/QAlhZJaJBcbcmOgTEa6gDllptLmzokY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 17 Sep 2025 02:40:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"sdBu7yc3zKNLi1M+EP1f+WmbojgRnOmZcFidK91NUbg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sdBu7yc3zKNLi1M+EP1f+WmbojgRnOmZcFidK91NUbg="
+        }
+      ]
+    },
+    {
+      "Route": "js/google-auth.js.map",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/js/google-auth.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1852"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sdBu7yc3zKNLi1M+EP1f+WmbojgRnOmZcFidK91NUbg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 17 Sep 2025 02:40:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sdBu7yc3zKNLi1M+EP1f+WmbojgRnOmZcFidK91NUbg="
+        }
+      ]
+    },
+    {
+      "Route": "js/google-auth.js.map.gz",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/g1522l7ceo-paflkno7xf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "639"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FSXKRp2rtcO/QAlhZJaJBcbcmOgTEa6gDllptLmzokY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 17 Sep 2025 02:40:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FSXKRp2rtcO/QAlhZJaJBcbcmOgTEa6gDllptLmzokY="
+        }
+      ]
+    },
+    {
+      "Route": "js/google-auth.js.paflkno7xf.map",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/g1522l7ceo-paflkno7xf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001562500000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "639"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FSXKRp2rtcO/QAlhZJaJBcbcmOgTEa6gDllptLmzokY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 17 Sep 2025 02:40:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"sdBu7yc3zKNLi1M+EP1f+WmbojgRnOmZcFidK91NUbg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "paflkno7xf"
+        },
+        {
+          "Name": "label",
+          "Value": "js/google-auth.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sdBu7yc3zKNLi1M+EP1f+WmbojgRnOmZcFidK91NUbg="
+        }
+      ]
+    },
+    {
+      "Route": "js/google-auth.js.paflkno7xf.map",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/js/google-auth.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1852"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sdBu7yc3zKNLi1M+EP1f+WmbojgRnOmZcFidK91NUbg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 17 Sep 2025 02:40:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "paflkno7xf"
+        },
+        {
+          "Name": "label",
+          "Value": "js/google-auth.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sdBu7yc3zKNLi1M+EP1f+WmbojgRnOmZcFidK91NUbg="
+        }
+      ]
+    },
+    {
+      "Route": "js/google-auth.js.paflkno7xf.map.gz",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/g1522l7ceo-paflkno7xf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "639"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FSXKRp2rtcO/QAlhZJaJBcbcmOgTEa6gDllptLmzokY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 17 Sep 2025 02:40:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "paflkno7xf"
+        },
+        {
+          "Name": "label",
+          "Value": "js/google-auth.js.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FSXKRp2rtcO/QAlhZJaJBcbcmOgTEa6gDllptLmzokY="
+        }
+      ]
+    },
+    {
+      "Route": "js/google-auth.txkuxfs7md.js",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/t9sc03z9e1-txkuxfs7md.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000737463127"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1355"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9MPAbyTF02+x4lWQbdwe78m33mi/P/lbWWmoFrv+lus=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 17 Sep 2025 02:40:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gaL26GEKrq92L2VIathWYFmNB/SRTgvGfLq2k+KxNMI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "txkuxfs7md"
+        },
+        {
+          "Name": "label",
+          "Value": "js/google-auth.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gaL26GEKrq92L2VIathWYFmNB/SRTgvGfLq2k+KxNMI="
+        }
+      ]
+    },
+    {
+      "Route": "js/google-auth.txkuxfs7md.js",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/js/google-auth.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3265"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gaL26GEKrq92L2VIathWYFmNB/SRTgvGfLq2k+KxNMI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 17 Sep 2025 02:40:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "txkuxfs7md"
+        },
+        {
+          "Name": "label",
+          "Value": "js/google-auth.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gaL26GEKrq92L2VIathWYFmNB/SRTgvGfLq2k+KxNMI="
+        }
+      ]
+    },
+    {
+      "Route": "js/google-auth.txkuxfs7md.js.gz",
+      "AssetFile": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/t9sc03z9e1-txkuxfs7md.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1355"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9MPAbyTF02+x4lWQbdwe78m33mi/P/lbWWmoFrv+lus=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 17 Sep 2025 02:40:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "txkuxfs7md"
+        },
+        {
+          "Name": "label",
+          "Value": "js/google-auth.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9MPAbyTF02+x4lWQbdwe78m33mi/P/lbWWmoFrv+lus="
         }
       ]
     },
@@ -2308,7 +3431,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 17 Sep 2025 01:59:45 GMT"
+          "Value": "Wed, 17 Sep 2025 02:52:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2353,7 +3476,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 17 Sep 2025 01:59:45 GMT"
+          "Value": "Wed, 17 Sep 2025 02:52:37 GMT"
         },
         {
           "Name": "Cache-Control",

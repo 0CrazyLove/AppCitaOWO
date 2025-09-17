@@ -1,7 +1,5 @@
 using System.Threading.Tasks;
 
-
-
 namespace GoogLoginTest.Services
 {
     /// <summary>
@@ -9,13 +7,13 @@ namespace GoogLoginTest.Services
     /// </summary>
     public class AuthService : IAuthService
     {
-        private readonly AuthDbContext _context;
+        private readonly LoginDbContext _context;
 
         /// <summary>
         /// Inicializa una nueva instancia del servicio de autenticación.
         /// </summary>
         /// <param name="context">Contexto de base de datos para autenticación.</param>
-        public AuthService(AuthDbContext context)
+        public AuthService(LoginDbContext context)
         {
             _context = context;
         }

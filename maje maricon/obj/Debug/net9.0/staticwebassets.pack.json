@@ -29,6 +29,22 @@
       "PackagePath": "staticwebassets/js/app.js.map"
     },
     {
+      "Id": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/js/google-auth.d.ts",
+      "PackagePath": "staticwebassets/js/google-auth.d.ts"
+    },
+    {
+      "Id": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/js/google-auth.d.ts.map",
+      "PackagePath": "staticwebassets/js/google-auth.d.ts.map"
+    },
+    {
+      "Id": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/js/google-auth.js",
+      "PackagePath": "staticwebassets/js/google-auth.js"
+    },
+    {
+      "Id": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/js/google-auth.js.map",
+      "PackagePath": "staticwebassets/js/google-auth.js.map"
+    },
+    {
       "Id": "/home/crazy/Documents/dev/AppCitaOWO/maje maricon/wwwroot/ts/app.ts",
       "PackagePath": "staticwebassets/ts/app.ts"
     },

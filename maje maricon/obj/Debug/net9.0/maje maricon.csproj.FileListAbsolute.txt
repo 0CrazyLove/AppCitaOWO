@@ -176,3 +176,6 @@
 /home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/vdjyrrj1hv-n3u0z9ki0f.gz
 /home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/ukk3v2islt-fan25un9my.gz
 /home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/7rmu5txlnu-gz94u9wgve.gz
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/k1nw8sr7c3-s68iscotby.gz
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/t9sc03z9e1-txkuxfs7md.gz
+/home/crazy/Documents/dev/AppCitaOWO/maje maricon/obj/Debug/net9.0/compressed/g1522l7ceo-paflkno7xf.gz
