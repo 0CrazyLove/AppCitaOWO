@@ -21,6 +21,7 @@ desktop.ini
 # Build results
 # ----------------------------------------
 bin
+obj
 [Bb]in/
 [Oo]bj/
 [Ll]og/
