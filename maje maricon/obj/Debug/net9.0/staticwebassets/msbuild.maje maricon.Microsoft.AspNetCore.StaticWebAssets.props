@@ -138,8 +138,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>txkuxfs7md</Fingerprint>
-      <Integrity>gaL26GEKrq92L2VIathWYFmNB/SRTgvGfLq2k+KxNMI=</Integrity>
+      <Fingerprint>916f18o173</Fingerprint>
+      <Integrity>TU1kKev/0lA+3/0GAKna6fYsBmYf+PadHEt2kkmCzIU=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\google-auth.js'))</OriginalItemSpec>
@@ -174,8 +174,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>s68iscotby</Fingerprint>
-      <Integrity>9AVU3j/xf05KZ9kRv7PJNE7RIVkaRc0KukppAYDyAD4=</Integrity>
+      <Fingerprint>75wbc9jkpi</Fingerprint>
+      <Integrity>e/dH51qPA6Q2lYti8+IG8oa0rpj2SEsgvzBTWYsqX/k=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\google-auth.d.ts.map'))</OriginalItemSpec>
@@ -192,8 +192,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>paflkno7xf</Fingerprint>
-      <Integrity>sdBu7yc3zKNLi1M+EP1f+WmbojgRnOmZcFidK91NUbg=</Integrity>
+      <Fingerprint>e4hfmlfdcp</Fingerprint>
+      <Integrity>bn75050H7NZXRvMU0NgS5DAxxgLKOUpqx8+Vy61249s=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\google-auth.js.map'))</OriginalItemSpec>
@@ -228,8 +228,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>dej4taibv6</Fingerprint>
-      <Integrity>yz840TOQZ1faYcr1R+OZeIWKETEfGvcvcs/zX/RzjNY=</Integrity>
+      <Fingerprint>rrlzo7kmri</Fingerprint>
+      <Integrity>96wUsTpFjDUDjXnMOvijOrTB1kh/kwbcr2rj46UfpYM=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ts\google-auth.ts'))</OriginalItemSpec>

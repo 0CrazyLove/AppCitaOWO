@@ -59,7 +59,7 @@ async function handleCredentialResponse(response: GoogleCredentialResponse): Pro
 
     if (userData) {
         displayUserInfo(userData);
-        await fetch("Api/Auth/google", {
+        await fetch("http://localhost:5163/api/auth/google", {
             method: "POST",
             headers: {
                 "Content-Type": "application/json",
@@ -68,7 +68,8 @@ async function handleCredentialResponse(response: GoogleCredentialResponse): Pro
                 token: response.credential,
                 user: userData
             }),
-        })
+        });
+
     }
 }
 

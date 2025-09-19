@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 
 
 [ApiController]
-[Route("Api/[controller]")]
+[Route("api/[controller]")]
 /// <summary>
 /// Controlador para la autenticación de usuarios mediante Google.
 /// </summary>
@@ -30,7 +30,7 @@ public class AuthController : ControllerBase
     {
         if (request == null || request.User == null) return BadRequest("Invalid data");
 
-        if (ModelState.IsValid == false) return BadRequest("Invalid model");
+      
 
         var user = await _authService.RegisterGoogleUserAsync(request);
         return Ok(new { message = "Usuario guardado", user });

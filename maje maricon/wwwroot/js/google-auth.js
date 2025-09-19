@@ -39,7 +39,7 @@ function handleCredentialResponse(response) {
         const userData = parseJwt(response.credential);
         if (userData) {
             displayUserInfo(userData);
-            yield fetch("Api/Auth/google", {
+            yield fetch("http://localhost:5163/api/auth/google", {
                 method: "POST",
                 headers: {
                     "Content-Type": "application/json",

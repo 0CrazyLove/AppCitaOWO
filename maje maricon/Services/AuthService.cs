@@ -1,4 +1,5 @@
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
 
 namespace GoogLoginTest.Services
 {
@@ -20,11 +21,26 @@ namespace GoogLoginTest.Services
 
         /// <summary>
         /// Registra un usuario usando los datos proporcionados por Google.
+        /// Valida si el usuario ya existe antes de registrarlo.
         /// </summary>
         /// <param name="request">Datos del usuario y token de Google.</param>
-        /// <returns>El usuario registrado.</returns>
+        /// <returns>El usuario registrado o existente.</returns>
+        /// <exception cref="InvalidOperationException">Se lanza cuando el usuario ya existe.</exception>
         public async Task<GoogleUserData> RegisterGoogleUserAsync(GoogleUserRequest request)
         {
+            // Validar si el usuario ya existe por Email o Sub (ID de Google)
+            var existingUser = await _context.GoogleAuthUsers.FirstOrDefaultAsync(u => u.Email == request.User.Email || u.Sub == request.User.Sub);
+
+            if (existingUser != null)
+            {
+                
+                existingUser.GoogleToken = request.Token;
+                existingUser.Exp = request.User.Exp;
+                await _context.SaveChangesAsync();
+                return existingUser;
+                
+            }
+            // Crear nuevo usuario si no existe
             var user = new GoogleUserData
             {
                 Sub = request.User.Sub,
@@ -45,5 +61,7 @@ namespace GoogLoginTest.Services
             await _context.SaveChangesAsync();
             return user;
         }
+
+      
     }
 }

@@ -10,7 +10,7 @@ public class GoogleUserData
     /// Identificador único del usuario (sub). Clave primaria.
     /// </summary>
     [Key]
-    [Required]
+ 
     public string Sub { get; set; } = string.Empty;
 
     // Relación inversa (opcional)(estudiar)
@@ -35,9 +35,7 @@ public class GoogleUserData
     /// Correo electrónico del usuario.
     /// </summary>
     /// 
-    [Required]
-    [EmailAddress]
-    public string? Email { get; set; }
+        public string? Email { get; set; }
 
     /// <summary>
     /// Indica si el correo fue verificado.
@@ -72,6 +70,6 @@ public class GoogleUserData
     /// <summary>
     /// Token de Google asociado al usuario.
     /// </summary>
-    [Required]
+
     public string GoogleToken { get; set; } = string.Empty;
 }
