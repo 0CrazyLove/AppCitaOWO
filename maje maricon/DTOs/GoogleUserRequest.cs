@@ -7,7 +7,7 @@ public class GoogleUserRequest
     /// <summary>
     /// Token de autenticación de Google.
     /// </summary>
-    public string Token { get; set; } = string.Empty;
+    public string GoogleToken { get; set; } = string.Empty;
 
     /// <summary>
     /// Datos del usuario autenticado por Google.

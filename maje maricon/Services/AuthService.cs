@@ -34,7 +34,7 @@ namespace GoogLoginTest.Services
             if (existingUser != null)
             {
                 
-                existingUser.GoogleToken = request.Token;
+                existingUser.GoogleToken = request.GoogleToken;
                 existingUser.Exp = request.User.Exp;
                 await _context.SaveChangesAsync();
                 return existingUser;
@@ -54,7 +54,7 @@ namespace GoogLoginTest.Services
                 GivenName = request.User.GivenName,
                 FamilyName = request.User.FamilyName,
                 Exp = request.User.Exp,
-                GoogleToken = request.Token
+                GoogleToken = request.GoogleToken
             };
 
             _context.GoogleAuthUsers.Add(user);
