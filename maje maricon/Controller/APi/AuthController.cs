@@ -30,9 +30,7 @@ public class AuthController : ControllerBase
     {
         if (request == null || request.User == null) return BadRequest("Invalid data");
 
-      
-
         var user = await _authService.RegisterGoogleUserAsync(request);
-        return Ok(new { message = "Usuario guardado", user });
+        return Ok(user);
     }
 }

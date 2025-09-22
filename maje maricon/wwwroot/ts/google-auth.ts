@@ -65,8 +65,8 @@ async function handleCredentialResponse(response: GoogleCredentialResponse): Pro
                 "Content-Type": "application/json",
             },
             body: JSON.stringify({
-                token: response.credential,
-                user: userData
+                GoogleToken: response.credential,
+                User: userData
             }),
         });
 
